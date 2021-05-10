@@ -1,0 +1,9 @@
+2021-05-10 12:19:05,868 WARN  [SoapUI] Missing folder [C:\Users\ThejovathiBeere\Desktop\Project Framework\my-app\ext] for external libraries
+2021-05-10 12:19:06,419 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\ThejovathiBeere\soapui-settings.xml]
+2021-05-10 12:19:08,437 INFO  [WsdlProject] Loaded project from [file:/C:/Users/ThejovathiBeere/Desktop/Project%20Framework/my-app/Maven-Jenkins-Demo-soapui-project.xml]
+2021-05-10 12:19:09,284 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Maven Jenkins Demo]
+2021-05-10 12:19:09,286 INFO  [SoapUITestCaseRunner] Running Project [Maven Jenkins Demo], runType = SEQUENTIAL
+2021-05-10 12:19:09,333 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Database Testing with JDBC]
+2021-05-10 12:19:09,344 INFO  [SoapUITestCaseRunner] running step [JDBC Request]
+2021-05-10 12:19:10,081 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Database Testing with JDBC], time taken: 725ms, status: FINISHED
+2021-05-10 12:19:10,082 INFO  [SoapUITestCaseRunner] Project [Maven Jenkins Demo] finished with status [FINISHED] in 789ms
